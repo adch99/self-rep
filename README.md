@@ -12,3 +12,5 @@ This should happen because:
 1. The space and cpu resources are limited by the environment scripts and hardware restrictions.
 2. There is a sufficient chance for error in the copying mechanism.
 3. The programs will compete for resources and adapt with artificial natural selection (pun intended).
+
+*Its important to keep the program as short as possible. This will allow for **smaller size** and better **memory optimization**. More importantly, it will be **barebones much like the predicted first cell**.*
